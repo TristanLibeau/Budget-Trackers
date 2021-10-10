@@ -10,7 +10,7 @@ SO THAT my account balance is accurate when I am traveling
 
 * link to my Repository:
 
-
+https://github.com/TristanLibeau/Budget-Trackers
 
 * Link on Heroku:
 
