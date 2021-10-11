@@ -14,7 +14,7 @@ https://github.com/TristanLibeau/Budget-Trackers
 
 * Link on Heroku:
 
-
+https://tristanlibeau-budgettrackers.herokuapp.com/
 
 # Functionality:
 
